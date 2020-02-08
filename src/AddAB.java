@@ -6,6 +6,8 @@ public class AddAB {
 		int b=200;
 		int sum=a+b;
 		System.out.println("sum of two number"+sum);
+		Subtract sb=new Subtract();
+		sb.sub();
 
 	}
 
