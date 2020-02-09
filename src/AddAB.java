@@ -10,6 +10,8 @@ public class AddAB {
 		sb.sub();
 		Multiply ml= new Multiply();
 		ml.mul();
+		Divide dv=new Divide();
+		dv.Div();
 
 	}
 
