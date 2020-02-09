@@ -8,6 +8,8 @@ public class AddAB {
 		System.out.println("sum of two number"+sum);
 		Subtract sb=new Subtract();
 		sb.sub();
+		Multiply ml= new Multiply();
+		ml.mul();
 
 	}
 
