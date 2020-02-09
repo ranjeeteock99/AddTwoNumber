@@ -4,7 +4,7 @@ public class Divide {
 	{
 	int a=10;
 	int b=200;
-	int Dive=b*a;
+	int Dive=b/a;
 	System.out.println("Divide two number"+Dive);
 	}
 
