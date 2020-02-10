@@ -5,13 +5,15 @@ public class AddAB {
 		int a=10;
 		int b=200;
 		int sum=a+b;
-		System.out.println("sum of two number"+sum);
+		System.out.println("sum of two numbers"+sum);
 		Subtract sb=new Subtract();
 		sb.sub();
 		Multiply ml= new Multiply();
 		ml.mul();
 		Divide dv=new Divide();
 		dv.Div();
+		Square sq=new Square();
+		sq.squ();
 
 	}
 

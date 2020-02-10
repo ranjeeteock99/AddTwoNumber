@@ -5,7 +5,7 @@ public class Subtract {
 	int a=10;
 	int b=200;
 	int sub=b-a;
-	System.out.println("Subtract two number"+sub);
+	System.out.println("Subtract two numbers"+sub);
 	}
 
 }

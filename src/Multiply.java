@@ -5,7 +5,7 @@ public class Multiply {
 	int a=10;
 	int b=200;
 	int mult=b*a;
-	System.out.println("Multiply two number"+mult);
+	System.out.println("Multiply two numbers"+mult);
 	}
 
 
